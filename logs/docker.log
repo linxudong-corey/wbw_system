@@ -1,0 +1,614 @@
+2020-09-13 20:17:54.124 [ main ] - [ INFO  ] [ com.wbw.ApplicationTests : 55 ] - Starting ApplicationTests on PC-20200620GZXL with PID 10660 (started by Administrator in D:\work\workdata\wbw_system)
+2020-09-13 20:17:54.126 [ main ] - [ INFO  ] [ com.wbw.ApplicationTests : 651 ] - No active profile set, falling back to default profiles: default
+2020-09-13 20:17:55.034 [ task-1 ] - [ INFO  ] [ org.hibernate.jpa.internal.util.LogHelper : 31 ] - HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-09-13 20:17:55.078 [ task-1 ] - [ INFO  ] [ org.hibernate.Version : 44 ] - HHH000412: Hibernate ORM core version 5.4.20.Final
+2020-09-13 20:17:55.187 [ task-1 ] - [ INFO  ] [ org.hibernate.annotations.common.Version : 49 ] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-09-13 20:17:55.466 [ task-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - HikariPool-1 - Starting...
+2020-09-13 20:17:56.205 [ task-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - HikariPool-1 - Start completed.
+2020-09-13 20:17:56.216 [ task-1 ] - [ INFO  ] [ org.hibernate.dialect.Dialect : 170 ] - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2020-09-13 20:17:57.299 [ task-1 ] - [ INFO  ] [ o.h.e.t.jta.platform.internal.JtaPlatformInitiator : 52 ] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-09-13 20:17:57.453 [ main ] - [ INFO  ] [ com.wbw.ApplicationTests : 61 ] - Started ApplicationTests in 3.697 seconds (JVM running for 4.486)
+2020-09-13 20:17:57.670 [ SpringContextShutdownHook ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 350 ] - HikariPool-1 - Shutdown initiated...
+2020-09-13 20:17:57.688 [ SpringContextShutdownHook ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 352 ] - HikariPool-1 - Shutdown completed.
+2020-09-13 20:18:22.809 [ main ] - [ INFO  ] [ com.wbw.ApplicationTests : 55 ] - Starting ApplicationTests on PC-20200620GZXL with PID 11760 (started by Administrator in D:\work\workdata\wbw_system)
+2020-09-13 20:18:22.811 [ main ] - [ INFO  ] [ com.wbw.ApplicationTests : 651 ] - No active profile set, falling back to default profiles: default
+2020-09-13 20:18:23.711 [ task-1 ] - [ INFO  ] [ org.hibernate.jpa.internal.util.LogHelper : 31 ] - HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-09-13 20:18:23.750 [ task-1 ] - [ INFO  ] [ org.hibernate.Version : 44 ] - HHH000412: Hibernate ORM core version 5.4.20.Final
+2020-09-13 20:18:23.855 [ task-1 ] - [ INFO  ] [ org.hibernate.annotations.common.Version : 49 ] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-09-13 20:18:24.135 [ task-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - HikariPool-1 - Starting...
+2020-09-13 20:18:24.508 [ task-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - HikariPool-1 - Start completed.
+2020-09-13 20:18:24.520 [ task-1 ] - [ INFO  ] [ org.hibernate.dialect.Dialect : 170 ] - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2020-09-13 20:18:25.567 [ task-1 ] - [ INFO  ] [ o.h.e.t.jta.platform.internal.JtaPlatformInitiator : 52 ] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-09-13 20:18:25.724 [ main ] - [ INFO  ] [ com.wbw.ApplicationTests : 61 ] - Started ApplicationTests in 3.226 seconds (JVM running for 3.988)
+2020-09-13 20:18:26.002 [ SpringContextShutdownHook ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 350 ] - HikariPool-1 - Shutdown initiated...
+2020-09-13 20:18:26.007 [ SpringContextShutdownHook ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 352 ] - HikariPool-1 - Shutdown completed.
+2020-09-13 20:25:35.989 [ main ] - [ INFO  ] [ com.wbw.ApplicationTests : 48 ] - Starting ApplicationTests on PC-20200620GZXL with PID 5048 (started by Administrator in D:\work\workdata\wbw_system)
+2020-09-13 20:25:35.991 [ main ] - [ INFO  ] [ com.wbw.ApplicationTests : 593 ] - No active profile set, falling back to default profiles: default
+2020-09-13 20:25:36.320 [ background-preinit ] - [ INFO  ] [ org.hibernate.validator.internal.util.Version : 30 ] - HV000001: Hibernate Validator 5.3.6.Final
+2020-09-13 20:25:37.042 [ main ] - [ INFO  ] [ org.hibernate.jpa.internal.util.LogHelper : 31 ] - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2020-09-13 20:25:37.086 [ main ] - [ INFO  ] [ org.hibernate.Version : 37 ] - HHH000412: Hibernate Core {5.0.12.Final}
+2020-09-13 20:25:37.087 [ main ] - [ INFO  ] [ org.hibernate.cfg.Environment : 213 ] - HHH000206: hibernate.properties not found
+2020-09-13 20:25:37.088 [ main ] - [ INFO  ] [ org.hibernate.cfg.Environment : 317 ] - HHH000021: Bytecode provider name : javassist
+2020-09-13 20:45:15.891 [ main ] - [ INFO  ] [ com.wbw.ApplicationTests : 55 ] - Starting ApplicationTests on PC-20200620GZXL with PID 5788 (started by Administrator in D:\work\workdata\wbw_system)
+2020-09-13 20:45:15.893 [ main ] - [ INFO  ] [ com.wbw.ApplicationTests : 651 ] - No active profile set, falling back to default profiles: default
+2020-09-13 20:45:17.206 [ task-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - HikariPool-1 - Starting...
+2020-09-13 20:45:17.580 [ task-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - HikariPool-1 - Start completed.
+2020-09-13 20:45:18.750 [ main ] - [ INFO  ] [ com.wbw.ApplicationTests : 61 ] - Started ApplicationTests in 3.175 seconds (JVM running for 3.884)
+2020-09-13 20:45:18.954 [ SpringContextShutdownHook ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 350 ] - HikariPool-1 - Shutdown initiated...
+2020-09-13 20:45:18.982 [ SpringContextShutdownHook ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 352 ] - HikariPool-1 - Shutdown completed.
+2020-09-13 20:45:36.009 [ main ] - [ INFO  ] [ com.wbw.ApplicationTests : 55 ] - Starting ApplicationTests on PC-20200620GZXL with PID 4576 (started by Administrator in D:\work\workdata\wbw_system)
+2020-09-13 20:45:36.011 [ main ] - [ DEBUG ] [ com.wbw.ApplicationTests : 56 ] - Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2020-09-13 20:45:36.011 [ main ] - [ INFO  ] [ com.wbw.ApplicationTests : 651 ] - No active profile set, falling back to default profiles: default
+2020-09-13 20:45:36.729 [ main ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 946 ] - Driver class com.mysql.jdbc.Driver found in Thread context class loader jdk.internal.loader.ClassLoaders$AppClassLoader@78308db1
+2020-09-13 20:45:36.830 [ main ] - [ DEBUG ] [ org.jboss.logging : 152 ] - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2020-09-13 20:45:36.914 [ main ] - [ DEBUG ] [ org.apache.catalina.core.AprLifecycleListener : 175 ] - The Apache Tomcat Native library could not be found using names [tcnative-1, libtcnative-1] on the java.library.path [D:\work\softword\idea\IntelliJ IDEA Community Edition 2019.2.3\jbr\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\work\softword\git\Git\cmd;"D:\work\softword\jdk\bin;D:\work\softword\jdk\jre\bin";C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;.]. The errors reported were [Can't load library: D:\work\workdata\wbw_system\bin\tcnative-1.dll, Can't load library: D:\work\workdata\wbw_system\bin\libtcnative-1.dll, no tcnative-1 in java.library.path: [D:\work\softword\idea\IntelliJ IDEA Community Edition 2019.2.3\jbr\bin, C:\Windows\Sun\Java\bin, C:\Windows\system32, C:\Windows, C:\Program Files (x86)\Common Files\Oracle\Java\javapath, C:\Windows\system32, C:\Windows, C:\Windows\System32\Wbem, C:\Windows\System32\WindowsPowerShell\v1.0\, C:\Windows\System32\OpenSSH\, C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common, D:\work\softword\git\Git\cmd, D:\work\softword\jdk\bin;D:\work\softword\jdk\jre\bin, C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps, ., .], no libtcnative-1 in java.library.path: [D:\work\softword\idea\IntelliJ IDEA Community Edition 2019.2.3\jbr\bin, C:\Windows\Sun\Java\bin, C:\Windows\system32, C:\Windows, C:\Program Files (x86)\Common Files\Oracle\Java\javapath, C:\Windows\system32, C:\Windows, C:\Windows\System32\Wbem, C:\Windows\System32\WindowsPowerShell\v1.0\, C:\Windows\System32\OpenSSH\, C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common, D:\work\softword\git\Git\cmd, D:\work\softword\jdk\bin;D:\work\softword\jdk\jre\bin, C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps, ., .]]
+org.apache.tomcat.jni.LibraryNotFoundError: Can't load library: D:\work\workdata\wbw_system\bin\tcnative-1.dll, Can't load library: D:\work\workdata\wbw_system\bin\libtcnative-1.dll, no tcnative-1 in java.library.path: [D:\work\softword\idea\IntelliJ IDEA Community Edition 2019.2.3\jbr\bin, C:\Windows\Sun\Java\bin, C:\Windows\system32, C:\Windows, C:\Program Files (x86)\Common Files\Oracle\Java\javapath, C:\Windows\system32, C:\Windows, C:\Windows\System32\Wbem, C:\Windows\System32\WindowsPowerShell\v1.0\, C:\Windows\System32\OpenSSH\, C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common, D:\work\softword\git\Git\cmd, D:\work\softword\jdk\bin;D:\work\softword\jdk\jre\bin, C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps, ., .], no libtcnative-1 in java.library.path: [D:\work\softword\idea\IntelliJ IDEA Community Edition 2019.2.3\jbr\bin, C:\Windows\Sun\Java\bin, C:\Windows\system32, C:\Windows, C:\Program Files (x86)\Common Files\Oracle\Java\javapath, C:\Windows\system32, C:\Windows, C:\Windows\System32\Wbem, C:\Windows\System32\WindowsPowerShell\v1.0\, C:\Windows\System32\OpenSSH\, C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common, D:\work\softword\git\Git\cmd, D:\work\softword\jdk\bin;D:\work\softword\jdk\jre\bin, C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps, ., .]
+	at org.apache.tomcat.jni.Library.<init>(Library.java:102)
+	at org.apache.tomcat.jni.Library.initialize(Library.java:206)
+	at org.apache.catalina.core.AprLifecycleListener.init(AprLifecycleListener.java:198)
+	at org.apache.catalina.core.AprLifecycleListener.isAprAvailable(AprLifecycleListener.java:107)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getDefaultLifecycleListeners(TomcatServletWebServerFactory.java:168)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.<init>(TomcatServletWebServerFactory.java:119)
+	at org.springframework.boot.autoconfigure.web.servlet.ServletWebServerFactoryConfiguration$EmbeddedTomcat.tomcatServletWebServerFactory(ServletWebServerFactoryConfiguration.java:75)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:650)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:635)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1336)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1176)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:556)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:120)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:99)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:124)
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:123)
+	at org.springframework.test.context.web.ServletTestExecutionListener.setUpRequestContextIfNecessary(ServletTestExecutionListener.java:190)
+	at org.springframework.test.context.web.ServletTestExecutionListener.prepareTestInstance(ServletTestExecutionListener.java:132)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:244)
+	at org.springframework.test.context.junit.jupiter.SpringExtension.postProcessTestInstance(SpringExtension.java:98)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$5(ClassBasedTestDescriptor.java:341)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.executeAndMaskThrowable(ClassBasedTestDescriptor.java:346)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$6(ClassBasedTestDescriptor.java:341)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:177)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1654)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.StreamSpliterators$WrappingSpliterator.forEachRemaining(StreamSpliterators.java:312)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:735)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:734)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:658)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.invokeTestInstancePostProcessors(ClassBasedTestDescriptor.java:340)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.instantiateAndPostProcessTestInstance(ClassBasedTestDescriptor.java:263)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$2(ClassBasedTestDescriptor.java:256)
+	at java.base/java.util.Optional.orElseGet(Optional.java:369)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$3(ClassBasedTestDescriptor.java:255)
+	at org.junit.jupiter.engine.execution.TestInstancesProvider.getTestInstances(TestInstancesProvider.java:29)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$prepare$0(TestMethodTestDescriptor.java:108)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:107)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:71)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$prepare$1(NodeTestTask.java:107)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.prepare(NodeTestTask.java:107)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:75)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:125)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:135)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:122)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:80)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:125)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:135)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:122)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:80)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:32)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:51)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:248)
+	at org.junit.platform.launcher.core.DefaultLauncher.lambda$execute$5(DefaultLauncher.java:211)
+	at org.junit.platform.launcher.core.DefaultLauncher.withInterceptedStreams(DefaultLauncher.java:226)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:199)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:132)
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:69)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+2020-09-13 20:45:37.332 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1066 ] - HikariPool-1 - configuration:
+2020-09-13 20:45:37.335 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - allowPoolSuspension.............false
+2020-09-13 20:45:37.335 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - autoCommit......................true
+2020-09-13 20:45:37.335 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - catalog.........................none
+2020-09-13 20:45:37.335 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - connectionInitSql...............none
+2020-09-13 20:45:37.335 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - connectionTestQuery.............none
+2020-09-13 20:45:37.336 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - connectionTimeout...............30000
+2020-09-13 20:45:37.336 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - dataSource......................none
+2020-09-13 20:45:37.336 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - dataSourceClassName.............none
+2020-09-13 20:45:37.336 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - dataSourceJNDI..................none
+2020-09-13 20:45:37.336 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - dataSourceProperties............{password=<masked>}
+2020-09-13 20:45:37.337 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - driverClassName................."com.mysql.jdbc.Driver"
+2020-09-13 20:45:37.337 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - exceptionOverrideClassName......none
+2020-09-13 20:45:37.337 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - healthCheckProperties...........{}
+2020-09-13 20:45:37.337 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - healthCheckRegistry.............none
+2020-09-13 20:45:37.337 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - idleTimeout.....................600000
+2020-09-13 20:45:37.337 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - initializationFailTimeout.......1
+2020-09-13 20:45:37.337 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - isolateInternalQueries..........false
+2020-09-13 20:45:37.337 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - jdbcUrl.........................jdbc:mysql://39.108.122.77:3306/dadp_crland?useUnicode=true&amp;characterEncoding=utf-8&useSSL=false&autoReconnect=true&failOverReadOnly=false
+2020-09-13 20:45:37.337 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - leakDetectionThreshold..........0
+2020-09-13 20:45:37.338 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - maxLifetime.....................1800000
+2020-09-13 20:45:37.338 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - maximumPoolSize.................10
+2020-09-13 20:45:37.338 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - metricRegistry..................none
+2020-09-13 20:45:37.338 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - metricsTrackerFactory...........none
+2020-09-13 20:45:37.338 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - minimumIdle.....................10
+2020-09-13 20:45:37.338 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - password........................<masked>
+2020-09-13 20:45:37.338 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - poolName........................"HikariPool-1"
+2020-09-13 20:45:37.338 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - readOnly........................false
+2020-09-13 20:45:37.338 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - registerMbeans..................false
+2020-09-13 20:45:37.338 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - scheduledExecutor...............none
+2020-09-13 20:45:37.339 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - schema..........................none
+2020-09-13 20:45:37.339 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - threadFactory...................internal
+2020-09-13 20:45:37.339 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - transactionIsolation............default
+2020-09-13 20:45:37.339 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - username........................"root"
+2020-09-13 20:45:37.339 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - validationTimeout...............5000
+2020-09-13 20:45:37.339 [ task-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - HikariPool-1 - Starting...
+2020-09-13 20:45:37.350 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - log4jdbc-logj2 properties initialization...
+2020-09-13 20:45:37.351 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - Using logger: net.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator
+2020-09-13 20:45:37.351 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.debug.stack.prefix is not defined
+2020-09-13 20:45:37.351 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.sqltiming.warn.threshold is not defined
+2020-09-13 20:45:37.351 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.sqltiming.error.threshold is not defined
+2020-09-13 20:45:37.351 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.dump.booleanastruefalse is not defined (using default value false)
+2020-09-13 20:45:37.351 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.dump.sql.maxlinelength is not defined (using default of 90)
+2020-09-13 20:45:37.351 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.dump.fulldebugstacktrace is not defined (using default value false)
+2020-09-13 20:45:37.351 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.statement.warn is not defined (using default value false)
+2020-09-13 20:45:37.351 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.dump.sql.select is not defined (using default value true)
+2020-09-13 20:45:37.352 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.dump.sql.insert is not defined (using default value true)
+2020-09-13 20:45:37.352 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.dump.sql.update is not defined (using default value true)
+2020-09-13 20:45:37.352 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.dump.sql.delete is not defined (using default value true)
+2020-09-13 20:45:37.352 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.dump.sql.create is not defined (using default value true)
+2020-09-13 20:45:37.352 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.dump.sql.addsemicolon is not defined (using default value false)
+2020-09-13 20:45:37.352 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.auto.load.popular.drivers is not defined (using default value true)
+2020-09-13 20:45:37.352 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.drivers is not defined
+2020-09-13 20:45:37.352 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.trim.sql is not defined (using default value true)
+2020-09-13 20:45:37.352 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.trim.sql.extrablanklines is not defined (using default value true)
+2020-09-13 20:45:37.352 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.suppress.generated.keys.exception is not defined (using default value false)
+2020-09-13 20:45:37.352 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - log4jdbc-logj2 properties initialization done.
+2020-09-13 20:45:37.352 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - DriverSpy intialization...
+2020-09-13 20:45:37.353 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] -   FOUND DRIVER com.mysql.jdbc.Driver
+2020-09-13 20:45:37.356 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - DriverSpy intialization done.
+2020-09-13 20:45:37.719 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 564 ] - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@58afc4a3
+2020-09-13 20:45:37.720 [ task-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - HikariPool-1 - Start completed.
+2020-09-13 20:45:37.822 [ HikariPool-1 housekeeper ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 421 ] - HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+2020-09-13 20:45:37.995 [ HikariPool-1 connection adder ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 728 ] - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@31db3535
+2020-09-13 20:45:38.121 [ HikariPool-1 connection adder ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 728 ] - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@3cdaf91e
+2020-09-13 20:45:38.281 [ HikariPool-1 connection adder ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 728 ] - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@572b4f29
+2020-09-13 20:45:38.480 [ HikariPool-1 connection adder ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 728 ] - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@7b4e3153
+2020-09-13 20:45:38.641 [ HikariPool-1 connection adder ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 728 ] - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@6213ea8d
+2020-09-13 20:45:38.781 [ HikariPool-1 connection adder ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 728 ] - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@61766d2
+2020-09-13 20:45:38.938 [ HikariPool-1 connection adder ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 728 ] - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@47f644ad
+2020-09-13 20:45:39.031 [ main ] - [ INFO  ] [ com.wbw.ApplicationTests : 61 ] - Started ApplicationTests in 3.341 seconds (JVM running for 4.056)
+2020-09-13 20:45:39.078 [ HikariPool-1 connection adder ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 728 ] - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@71526df1
+2020-09-13 20:45:39.229 [ HikariPool-1 connection adder ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 728 ] - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@50763f56
+2020-09-13 20:45:39.229 [ HikariPool-1 connection adder ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 421 ] - HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+2020-09-13 20:45:39.241 [ SpringContextShutdownHook ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 350 ] - HikariPool-1 - Shutdown initiated...
+2020-09-13 20:45:39.242 [ SpringContextShutdownHook ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 421 ] - HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2020-09-13 20:45:39.243 [ HikariPool-1 connection closer ] - [ DEBUG ] [ com.zaxxer.hikari.pool.PoolBase : 134 ] - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@58afc4a3: (connection evicted)
+2020-09-13 20:45:39.245 [ HikariPool-1 connection closer ] - [ DEBUG ] [ com.zaxxer.hikari.pool.PoolBase : 134 ] - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@31db3535: (connection evicted)
+2020-09-13 20:45:39.245 [ HikariPool-1 connection closer ] - [ DEBUG ] [ com.zaxxer.hikari.pool.PoolBase : 134 ] - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@3cdaf91e: (connection evicted)
+2020-09-13 20:45:39.246 [ HikariPool-1 connection closer ] - [ DEBUG ] [ com.zaxxer.hikari.pool.PoolBase : 134 ] - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@572b4f29: (connection evicted)
+2020-09-13 20:45:39.246 [ HikariPool-1 connection closer ] - [ DEBUG ] [ com.zaxxer.hikari.pool.PoolBase : 134 ] - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@7b4e3153: (connection evicted)
+2020-09-13 20:45:39.246 [ HikariPool-1 connection closer ] - [ DEBUG ] [ com.zaxxer.hikari.pool.PoolBase : 134 ] - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@6213ea8d: (connection evicted)
+2020-09-13 20:45:39.247 [ HikariPool-1 connection closer ] - [ DEBUG ] [ com.zaxxer.hikari.pool.PoolBase : 134 ] - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@61766d2: (connection evicted)
+2020-09-13 20:45:39.247 [ HikariPool-1 connection closer ] - [ DEBUG ] [ com.zaxxer.hikari.pool.PoolBase : 134 ] - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@47f644ad: (connection evicted)
+2020-09-13 20:45:39.247 [ HikariPool-1 connection closer ] - [ DEBUG ] [ com.zaxxer.hikari.pool.PoolBase : 134 ] - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@71526df1: (connection evicted)
+2020-09-13 20:45:39.248 [ HikariPool-1 connection closer ] - [ DEBUG ] [ com.zaxxer.hikari.pool.PoolBase : 134 ] - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@50763f56: (connection evicted)
+2020-09-13 20:45:39.248 [ SpringContextShutdownHook ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 421 ] - HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2020-09-13 20:45:39.248 [ SpringContextShutdownHook ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 352 ] - HikariPool-1 - Shutdown completed.
+2020-09-13 20:46:49.966 [ main ] - [ INFO  ] [ com.wbw.ApplicationTests : 55 ] - Starting ApplicationTests on PC-20200620GZXL with PID 7504 (started by Administrator in D:\work\workdata\wbw_system)
+2020-09-13 20:46:49.968 [ main ] - [ DEBUG ] [ com.wbw.ApplicationTests : 56 ] - Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2020-09-13 20:46:49.968 [ main ] - [ INFO  ] [ com.wbw.ApplicationTests : 651 ] - No active profile set, falling back to default profiles: default
+2020-09-13 20:46:50.701 [ main ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 946 ] - Driver class com.mysql.jdbc.Driver found in Thread context class loader jdk.internal.loader.ClassLoaders$AppClassLoader@78308db1
+2020-09-13 20:46:50.797 [ main ] - [ DEBUG ] [ org.jboss.logging : 152 ] - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2020-09-13 20:46:50.889 [ main ] - [ DEBUG ] [ org.apache.catalina.core.AprLifecycleListener : 175 ] - The Apache Tomcat Native library could not be found using names [tcnative-1, libtcnative-1] on the java.library.path [D:\work\softword\idea\IntelliJ IDEA Community Edition 2019.2.3\jbr\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\work\softword\git\Git\cmd;"D:\work\softword\jdk\bin;D:\work\softword\jdk\jre\bin";C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;.]. The errors reported were [Can't load library: D:\work\workdata\wbw_system\bin\tcnative-1.dll, Can't load library: D:\work\workdata\wbw_system\bin\libtcnative-1.dll, no tcnative-1 in java.library.path: [D:\work\softword\idea\IntelliJ IDEA Community Edition 2019.2.3\jbr\bin, C:\Windows\Sun\Java\bin, C:\Windows\system32, C:\Windows, C:\Program Files (x86)\Common Files\Oracle\Java\javapath, C:\Windows\system32, C:\Windows, C:\Windows\System32\Wbem, C:\Windows\System32\WindowsPowerShell\v1.0\, C:\Windows\System32\OpenSSH\, C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common, D:\work\softword\git\Git\cmd, D:\work\softword\jdk\bin;D:\work\softword\jdk\jre\bin, C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps, ., .], no libtcnative-1 in java.library.path: [D:\work\softword\idea\IntelliJ IDEA Community Edition 2019.2.3\jbr\bin, C:\Windows\Sun\Java\bin, C:\Windows\system32, C:\Windows, C:\Program Files (x86)\Common Files\Oracle\Java\javapath, C:\Windows\system32, C:\Windows, C:\Windows\System32\Wbem, C:\Windows\System32\WindowsPowerShell\v1.0\, C:\Windows\System32\OpenSSH\, C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common, D:\work\softword\git\Git\cmd, D:\work\softword\jdk\bin;D:\work\softword\jdk\jre\bin, C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps, ., .]]
+org.apache.tomcat.jni.LibraryNotFoundError: Can't load library: D:\work\workdata\wbw_system\bin\tcnative-1.dll, Can't load library: D:\work\workdata\wbw_system\bin\libtcnative-1.dll, no tcnative-1 in java.library.path: [D:\work\softword\idea\IntelliJ IDEA Community Edition 2019.2.3\jbr\bin, C:\Windows\Sun\Java\bin, C:\Windows\system32, C:\Windows, C:\Program Files (x86)\Common Files\Oracle\Java\javapath, C:\Windows\system32, C:\Windows, C:\Windows\System32\Wbem, C:\Windows\System32\WindowsPowerShell\v1.0\, C:\Windows\System32\OpenSSH\, C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common, D:\work\softword\git\Git\cmd, D:\work\softword\jdk\bin;D:\work\softword\jdk\jre\bin, C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps, ., .], no libtcnative-1 in java.library.path: [D:\work\softword\idea\IntelliJ IDEA Community Edition 2019.2.3\jbr\bin, C:\Windows\Sun\Java\bin, C:\Windows\system32, C:\Windows, C:\Program Files (x86)\Common Files\Oracle\Java\javapath, C:\Windows\system32, C:\Windows, C:\Windows\System32\Wbem, C:\Windows\System32\WindowsPowerShell\v1.0\, C:\Windows\System32\OpenSSH\, C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common, D:\work\softword\git\Git\cmd, D:\work\softword\jdk\bin;D:\work\softword\jdk\jre\bin, C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps, ., .]
+	at org.apache.tomcat.jni.Library.<init>(Library.java:102)
+	at org.apache.tomcat.jni.Library.initialize(Library.java:206)
+	at org.apache.catalina.core.AprLifecycleListener.init(AprLifecycleListener.java:198)
+	at org.apache.catalina.core.AprLifecycleListener.isAprAvailable(AprLifecycleListener.java:107)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getDefaultLifecycleListeners(TomcatServletWebServerFactory.java:168)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.<init>(TomcatServletWebServerFactory.java:119)
+	at org.springframework.boot.autoconfigure.web.servlet.ServletWebServerFactoryConfiguration$EmbeddedTomcat.tomcatServletWebServerFactory(ServletWebServerFactoryConfiguration.java:75)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:650)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:635)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1336)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1176)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:556)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:120)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:99)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:124)
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:123)
+	at org.springframework.test.context.web.ServletTestExecutionListener.setUpRequestContextIfNecessary(ServletTestExecutionListener.java:190)
+	at org.springframework.test.context.web.ServletTestExecutionListener.prepareTestInstance(ServletTestExecutionListener.java:132)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:244)
+	at org.springframework.test.context.junit.jupiter.SpringExtension.postProcessTestInstance(SpringExtension.java:98)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$5(ClassBasedTestDescriptor.java:341)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.executeAndMaskThrowable(ClassBasedTestDescriptor.java:346)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$6(ClassBasedTestDescriptor.java:341)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:177)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1654)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.StreamSpliterators$WrappingSpliterator.forEachRemaining(StreamSpliterators.java:312)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:735)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:734)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:658)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.invokeTestInstancePostProcessors(ClassBasedTestDescriptor.java:340)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.instantiateAndPostProcessTestInstance(ClassBasedTestDescriptor.java:263)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$2(ClassBasedTestDescriptor.java:256)
+	at java.base/java.util.Optional.orElseGet(Optional.java:369)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$3(ClassBasedTestDescriptor.java:255)
+	at org.junit.jupiter.engine.execution.TestInstancesProvider.getTestInstances(TestInstancesProvider.java:29)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$prepare$0(TestMethodTestDescriptor.java:108)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:107)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:71)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$prepare$1(NodeTestTask.java:107)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.prepare(NodeTestTask.java:107)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:75)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:125)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:135)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:122)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:80)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:125)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:135)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:122)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:80)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:32)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:51)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:248)
+	at org.junit.platform.launcher.core.DefaultLauncher.lambda$execute$5(DefaultLauncher.java:211)
+	at org.junit.platform.launcher.core.DefaultLauncher.withInterceptedStreams(DefaultLauncher.java:226)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:199)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:132)
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:69)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+2020-09-13 20:46:51.300 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1066 ] - HikariPool-1 - configuration:
+2020-09-13 20:46:51.302 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - allowPoolSuspension.............false
+2020-09-13 20:46:51.303 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - autoCommit......................true
+2020-09-13 20:46:51.303 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - catalog.........................none
+2020-09-13 20:46:51.303 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - connectionInitSql...............none
+2020-09-13 20:46:51.303 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - connectionTestQuery.............none
+2020-09-13 20:46:51.303 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - connectionTimeout...............30000
+2020-09-13 20:46:51.303 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - dataSource......................none
+2020-09-13 20:46:51.303 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - dataSourceClassName.............none
+2020-09-13 20:46:51.303 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - dataSourceJNDI..................none
+2020-09-13 20:46:51.304 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - dataSourceProperties............{password=<masked>}
+2020-09-13 20:46:51.304 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - driverClassName................."com.mysql.jdbc.Driver"
+2020-09-13 20:46:51.304 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - exceptionOverrideClassName......none
+2020-09-13 20:46:51.304 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - healthCheckProperties...........{}
+2020-09-13 20:46:51.304 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - healthCheckRegistry.............none
+2020-09-13 20:46:51.304 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - idleTimeout.....................600000
+2020-09-13 20:46:51.304 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - initializationFailTimeout.......1
+2020-09-13 20:46:51.304 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - isolateInternalQueries..........false
+2020-09-13 20:46:51.305 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - jdbcUrl.........................jdbc:mysql://39.108.122.77:3306/dadp_crland?useUnicode=true&amp;characterEncoding=utf-8&useSSL=false&autoReconnect=true&failOverReadOnly=false
+2020-09-13 20:46:51.305 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - leakDetectionThreshold..........0
+2020-09-13 20:46:51.305 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - maxLifetime.....................1800000
+2020-09-13 20:46:51.305 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - maximumPoolSize.................10
+2020-09-13 20:46:51.305 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - metricRegistry..................none
+2020-09-13 20:46:51.305 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - metricsTrackerFactory...........none
+2020-09-13 20:46:51.305 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - minimumIdle.....................10
+2020-09-13 20:46:51.305 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - password........................<masked>
+2020-09-13 20:46:51.305 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - poolName........................"HikariPool-1"
+2020-09-13 20:46:51.306 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - readOnly........................false
+2020-09-13 20:46:51.306 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - registerMbeans..................false
+2020-09-13 20:46:51.306 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - scheduledExecutor...............none
+2020-09-13 20:46:51.306 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - schema..........................none
+2020-09-13 20:46:51.306 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - threadFactory...................internal
+2020-09-13 20:46:51.306 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - transactionIsolation............default
+2020-09-13 20:46:51.306 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - username........................"root"
+2020-09-13 20:46:51.306 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - validationTimeout...............5000
+2020-09-13 20:46:51.306 [ task-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - HikariPool-1 - Starting...
+2020-09-13 20:46:51.315 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - log4jdbc-logj2 properties initialization...
+2020-09-13 20:46:51.316 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - Using logger: net.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator
+2020-09-13 20:46:51.316 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.debug.stack.prefix is not defined
+2020-09-13 20:46:51.316 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.sqltiming.warn.threshold is not defined
+2020-09-13 20:46:51.316 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.sqltiming.error.threshold is not defined
+2020-09-13 20:46:51.316 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.dump.booleanastruefalse is not defined (using default value false)
+2020-09-13 20:46:51.316 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.dump.sql.maxlinelength is not defined (using default of 90)
+2020-09-13 20:46:51.316 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.dump.fulldebugstacktrace is not defined (using default value false)
+2020-09-13 20:46:51.317 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.statement.warn is not defined (using default value false)
+2020-09-13 20:46:51.317 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.dump.sql.select is not defined (using default value true)
+2020-09-13 20:46:51.317 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.dump.sql.insert is not defined (using default value true)
+2020-09-13 20:46:51.317 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.dump.sql.update is not defined (using default value true)
+2020-09-13 20:46:51.317 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.dump.sql.delete is not defined (using default value true)
+2020-09-13 20:46:51.317 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.dump.sql.create is not defined (using default value true)
+2020-09-13 20:46:51.317 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.dump.sql.addsemicolon is not defined (using default value false)
+2020-09-13 20:46:51.317 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.auto.load.popular.drivers is not defined (using default value true)
+2020-09-13 20:46:51.317 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.drivers is not defined
+2020-09-13 20:46:51.317 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.trim.sql is not defined (using default value true)
+2020-09-13 20:46:51.317 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.trim.sql.extrablanklines is not defined (using default value true)
+2020-09-13 20:46:51.318 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.suppress.generated.keys.exception is not defined (using default value false)
+2020-09-13 20:46:51.318 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - log4jdbc-logj2 properties initialization done.
+2020-09-13 20:46:51.318 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - DriverSpy intialization...
+2020-09-13 20:46:51.318 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] -   FOUND DRIVER com.mysql.jdbc.Driver
+2020-09-13 20:46:51.321 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - DriverSpy intialization done.
+2020-09-13 20:46:51.675 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 564 ] - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@13e87ddd
+2020-09-13 20:46:51.677 [ task-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - HikariPool-1 - Start completed.
+2020-09-13 20:46:51.778 [ HikariPool-1 housekeeper ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 421 ] - HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+2020-09-13 20:46:51.934 [ HikariPool-1 connection adder ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 728 ] - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@15995aff
+2020-09-13 20:46:52.087 [ HikariPool-1 connection adder ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 728 ] - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@130dfb9
+2020-09-13 20:46:52.240 [ HikariPool-1 connection adder ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 728 ] - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@6e52209b
+2020-09-13 20:46:52.401 [ HikariPool-1 connection adder ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 728 ] - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@5a67636e
+2020-09-13 20:46:52.561 [ HikariPool-1 connection adder ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 728 ] - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@474dfe52
+2020-09-13 20:46:52.721 [ HikariPool-1 connection adder ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 728 ] - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@60533431
+2020-09-13 20:46:52.823 [ main ] - [ INFO  ] [ com.wbw.ApplicationTests : 61 ] - Started ApplicationTests in 3.182 seconds (JVM running for 3.918)
+2020-09-13 20:46:52.884 [ HikariPool-1 connection adder ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 728 ] - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@112c82c1
+2020-09-13 20:46:53.020 [ SpringContextShutdownHook ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 350 ] - HikariPool-1 - Shutdown initiated...
+2020-09-13 20:46:53.020 [ SpringContextShutdownHook ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 421 ] - HikariPool-1 - Before shutdown stats (total=8, active=0, idle=8, waiting=0)
+2020-09-13 20:46:53.021 [ HikariPool-1 connection closer ] - [ DEBUG ] [ com.zaxxer.hikari.pool.PoolBase : 134 ] - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@13e87ddd: (connection evicted)
+2020-09-13 20:46:53.022 [ HikariPool-1 connection closer ] - [ DEBUG ] [ com.zaxxer.hikari.pool.PoolBase : 134 ] - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@15995aff: (connection evicted)
+2020-09-13 20:46:53.023 [ HikariPool-1 connection closer ] - [ DEBUG ] [ com.zaxxer.hikari.pool.PoolBase : 134 ] - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@130dfb9: (connection evicted)
+2020-09-13 20:46:53.023 [ HikariPool-1 connection closer ] - [ DEBUG ] [ com.zaxxer.hikari.pool.PoolBase : 134 ] - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@6e52209b: (connection evicted)
+2020-09-13 20:46:53.024 [ HikariPool-1 connection closer ] - [ DEBUG ] [ com.zaxxer.hikari.pool.PoolBase : 134 ] - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@5a67636e: (connection evicted)
+2020-09-13 20:46:53.024 [ HikariPool-1 connection closer ] - [ DEBUG ] [ com.zaxxer.hikari.pool.PoolBase : 134 ] - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@474dfe52: (connection evicted)
+2020-09-13 20:46:53.024 [ HikariPool-1 connection closer ] - [ DEBUG ] [ com.zaxxer.hikari.pool.PoolBase : 134 ] - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@60533431: (connection evicted)
+2020-09-13 20:46:53.025 [ HikariPool-1 connection closer ] - [ DEBUG ] [ com.zaxxer.hikari.pool.PoolBase : 134 ] - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@112c82c1: (connection evicted)
+2020-09-13 20:46:53.025 [ HikariPool-1 connection adder ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 728 ] - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@3bf84056
+2020-09-13 20:46:53.026 [ HikariPool-1 connection closer ] - [ DEBUG ] [ com.zaxxer.hikari.pool.PoolBase : 134 ] - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@3bf84056: (connection evicted)
+2020-09-13 20:46:53.026 [ SpringContextShutdownHook ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 421 ] - HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2020-09-13 20:46:53.026 [ SpringContextShutdownHook ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 352 ] - HikariPool-1 - Shutdown completed.
+2020-09-13 20:47:25.066 [ main ] - [ INFO  ] [ com.wbw.ApplicationTests : 55 ] - Starting ApplicationTests on PC-20200620GZXL with PID 11712 (started by Administrator in D:\work\workdata\wbw_system)
+2020-09-13 20:47:25.067 [ main ] - [ DEBUG ] [ com.wbw.ApplicationTests : 56 ] - Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2020-09-13 20:47:25.068 [ main ] - [ INFO  ] [ com.wbw.ApplicationTests : 651 ] - No active profile set, falling back to default profiles: default
+2020-09-13 20:47:25.807 [ main ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 946 ] - Driver class com.mysql.jdbc.Driver found in Thread context class loader jdk.internal.loader.ClassLoaders$AppClassLoader@78308db1
+2020-09-13 20:47:25.911 [ main ] - [ DEBUG ] [ org.jboss.logging : 152 ] - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2020-09-13 20:47:25.998 [ main ] - [ DEBUG ] [ org.apache.catalina.core.AprLifecycleListener : 175 ] - The Apache Tomcat Native library could not be found using names [tcnative-1, libtcnative-1] on the java.library.path [D:\work\softword\idea\IntelliJ IDEA Community Edition 2019.2.3\jbr\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\work\softword\git\Git\cmd;"D:\work\softword\jdk\bin;D:\work\softword\jdk\jre\bin";C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;.]. The errors reported were [Can't load library: D:\work\workdata\wbw_system\bin\tcnative-1.dll, Can't load library: D:\work\workdata\wbw_system\bin\libtcnative-1.dll, no tcnative-1 in java.library.path: [D:\work\softword\idea\IntelliJ IDEA Community Edition 2019.2.3\jbr\bin, C:\Windows\Sun\Java\bin, C:\Windows\system32, C:\Windows, C:\Program Files (x86)\Common Files\Oracle\Java\javapath, C:\Windows\system32, C:\Windows, C:\Windows\System32\Wbem, C:\Windows\System32\WindowsPowerShell\v1.0\, C:\Windows\System32\OpenSSH\, C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common, D:\work\softword\git\Git\cmd, D:\work\softword\jdk\bin;D:\work\softword\jdk\jre\bin, C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps, ., .], no libtcnative-1 in java.library.path: [D:\work\softword\idea\IntelliJ IDEA Community Edition 2019.2.3\jbr\bin, C:\Windows\Sun\Java\bin, C:\Windows\system32, C:\Windows, C:\Program Files (x86)\Common Files\Oracle\Java\javapath, C:\Windows\system32, C:\Windows, C:\Windows\System32\Wbem, C:\Windows\System32\WindowsPowerShell\v1.0\, C:\Windows\System32\OpenSSH\, C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common, D:\work\softword\git\Git\cmd, D:\work\softword\jdk\bin;D:\work\softword\jdk\jre\bin, C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps, ., .]]
+org.apache.tomcat.jni.LibraryNotFoundError: Can't load library: D:\work\workdata\wbw_system\bin\tcnative-1.dll, Can't load library: D:\work\workdata\wbw_system\bin\libtcnative-1.dll, no tcnative-1 in java.library.path: [D:\work\softword\idea\IntelliJ IDEA Community Edition 2019.2.3\jbr\bin, C:\Windows\Sun\Java\bin, C:\Windows\system32, C:\Windows, C:\Program Files (x86)\Common Files\Oracle\Java\javapath, C:\Windows\system32, C:\Windows, C:\Windows\System32\Wbem, C:\Windows\System32\WindowsPowerShell\v1.0\, C:\Windows\System32\OpenSSH\, C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common, D:\work\softword\git\Git\cmd, D:\work\softword\jdk\bin;D:\work\softword\jdk\jre\bin, C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps, ., .], no libtcnative-1 in java.library.path: [D:\work\softword\idea\IntelliJ IDEA Community Edition 2019.2.3\jbr\bin, C:\Windows\Sun\Java\bin, C:\Windows\system32, C:\Windows, C:\Program Files (x86)\Common Files\Oracle\Java\javapath, C:\Windows\system32, C:\Windows, C:\Windows\System32\Wbem, C:\Windows\System32\WindowsPowerShell\v1.0\, C:\Windows\System32\OpenSSH\, C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common, D:\work\softword\git\Git\cmd, D:\work\softword\jdk\bin;D:\work\softword\jdk\jre\bin, C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps, ., .]
+	at org.apache.tomcat.jni.Library.<init>(Library.java:102)
+	at org.apache.tomcat.jni.Library.initialize(Library.java:206)
+	at org.apache.catalina.core.AprLifecycleListener.init(AprLifecycleListener.java:198)
+	at org.apache.catalina.core.AprLifecycleListener.isAprAvailable(AprLifecycleListener.java:107)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getDefaultLifecycleListeners(TomcatServletWebServerFactory.java:168)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.<init>(TomcatServletWebServerFactory.java:119)
+	at org.springframework.boot.autoconfigure.web.servlet.ServletWebServerFactoryConfiguration$EmbeddedTomcat.tomcatServletWebServerFactory(ServletWebServerFactoryConfiguration.java:75)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:650)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:635)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1336)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1176)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:556)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:120)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:99)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:124)
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:123)
+	at org.springframework.test.context.web.ServletTestExecutionListener.setUpRequestContextIfNecessary(ServletTestExecutionListener.java:190)
+	at org.springframework.test.context.web.ServletTestExecutionListener.prepareTestInstance(ServletTestExecutionListener.java:132)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:244)
+	at org.springframework.test.context.junit.jupiter.SpringExtension.postProcessTestInstance(SpringExtension.java:98)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$5(ClassBasedTestDescriptor.java:341)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.executeAndMaskThrowable(ClassBasedTestDescriptor.java:346)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$6(ClassBasedTestDescriptor.java:341)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:177)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1654)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.StreamSpliterators$WrappingSpliterator.forEachRemaining(StreamSpliterators.java:312)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:735)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:734)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:658)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.invokeTestInstancePostProcessors(ClassBasedTestDescriptor.java:340)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.instantiateAndPostProcessTestInstance(ClassBasedTestDescriptor.java:263)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$2(ClassBasedTestDescriptor.java:256)
+	at java.base/java.util.Optional.orElseGet(Optional.java:369)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$3(ClassBasedTestDescriptor.java:255)
+	at org.junit.jupiter.engine.execution.TestInstancesProvider.getTestInstances(TestInstancesProvider.java:29)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$prepare$0(TestMethodTestDescriptor.java:108)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:107)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:71)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$prepare$1(NodeTestTask.java:107)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.prepare(NodeTestTask.java:107)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:75)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:125)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:135)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:122)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:80)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:125)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:135)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:122)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:80)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:32)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:51)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:248)
+	at org.junit.platform.launcher.core.DefaultLauncher.lambda$execute$5(DefaultLauncher.java:211)
+	at org.junit.platform.launcher.core.DefaultLauncher.withInterceptedStreams(DefaultLauncher.java:226)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:199)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:132)
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:69)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+2020-09-13 20:47:26.404 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1066 ] - HikariPool-1 - configuration:
+2020-09-13 20:47:26.406 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - allowPoolSuspension.............false
+2020-09-13 20:47:26.406 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - autoCommit......................true
+2020-09-13 20:47:26.406 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - catalog.........................none
+2020-09-13 20:47:26.407 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - connectionInitSql...............none
+2020-09-13 20:47:26.407 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - connectionTestQuery.............none
+2020-09-13 20:47:26.407 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - connectionTimeout...............30000
+2020-09-13 20:47:26.407 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - dataSource......................none
+2020-09-13 20:47:26.407 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - dataSourceClassName.............none
+2020-09-13 20:47:26.407 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - dataSourceJNDI..................none
+2020-09-13 20:47:26.408 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - dataSourceProperties............{password=<masked>}
+2020-09-13 20:47:26.408 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - driverClassName................."com.mysql.jdbc.Driver"
+2020-09-13 20:47:26.408 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - exceptionOverrideClassName......none
+2020-09-13 20:47:26.408 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - healthCheckProperties...........{}
+2020-09-13 20:47:26.408 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - healthCheckRegistry.............none
+2020-09-13 20:47:26.408 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - idleTimeout.....................600000
+2020-09-13 20:47:26.408 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - initializationFailTimeout.......1
+2020-09-13 20:47:26.408 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - isolateInternalQueries..........false
+2020-09-13 20:47:26.409 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - jdbcUrl.........................jdbc:mysql://39.108.122.77:3306/dadp_crland?useUnicode=true&amp;characterEncoding=utf-8&useSSL=false&autoReconnect=true&failOverReadOnly=false
+2020-09-13 20:47:26.409 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - leakDetectionThreshold..........0
+2020-09-13 20:47:26.409 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - maxLifetime.....................1800000
+2020-09-13 20:47:26.409 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - maximumPoolSize.................10
+2020-09-13 20:47:26.409 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - metricRegistry..................none
+2020-09-13 20:47:26.409 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - metricsTrackerFactory...........none
+2020-09-13 20:47:26.409 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - minimumIdle.....................10
+2020-09-13 20:47:26.410 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - password........................<masked>
+2020-09-13 20:47:26.410 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - poolName........................"HikariPool-1"
+2020-09-13 20:47:26.410 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - readOnly........................false
+2020-09-13 20:47:26.410 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - registerMbeans..................false
+2020-09-13 20:47:26.410 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - scheduledExecutor...............none
+2020-09-13 20:47:26.410 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - schema..........................none
+2020-09-13 20:47:26.410 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - threadFactory...................internal
+2020-09-13 20:47:26.410 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - transactionIsolation............default
+2020-09-13 20:47:26.410 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - username........................"root"
+2020-09-13 20:47:26.410 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.HikariConfig : 1098 ] - validationTimeout...............5000
+2020-09-13 20:47:26.411 [ task-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - HikariPool-1 - Starting...
+2020-09-13 20:47:26.418 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - log4jdbc-logj2 properties initialization...
+2020-09-13 20:47:26.418 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - Using logger: net.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator
+2020-09-13 20:47:26.418 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.debug.stack.prefix is not defined
+2020-09-13 20:47:26.419 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.sqltiming.warn.threshold is not defined
+2020-09-13 20:47:26.419 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.sqltiming.error.threshold is not defined
+2020-09-13 20:47:26.419 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.dump.booleanastruefalse is not defined (using default value false)
+2020-09-13 20:47:26.419 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.dump.sql.maxlinelength is not defined (using default of 90)
+2020-09-13 20:47:26.419 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.dump.fulldebugstacktrace is not defined (using default value false)
+2020-09-13 20:47:26.419 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.statement.warn is not defined (using default value false)
+2020-09-13 20:47:26.419 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.dump.sql.select is not defined (using default value true)
+2020-09-13 20:47:26.419 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.dump.sql.insert is not defined (using default value true)
+2020-09-13 20:47:26.419 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.dump.sql.update is not defined (using default value true)
+2020-09-13 20:47:26.419 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.dump.sql.delete is not defined (using default value true)
+2020-09-13 20:47:26.419 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.dump.sql.create is not defined (using default value true)
+2020-09-13 20:47:26.419 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.dump.sql.addsemicolon is not defined (using default value false)
+2020-09-13 20:47:26.420 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.auto.load.popular.drivers is not defined (using default value true)
+2020-09-13 20:47:26.420 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.drivers is not defined
+2020-09-13 20:47:26.420 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.trim.sql is not defined (using default value true)
+2020-09-13 20:47:26.420 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.trim.sql.extrablanklines is not defined (using default value true)
+2020-09-13 20:47:26.420 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - x log4jdbc.suppress.generated.keys.exception is not defined (using default value false)
+2020-09-13 20:47:26.420 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - log4jdbc-logj2 properties initialization done.
+2020-09-13 20:47:26.420 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - DriverSpy intialization...
+2020-09-13 20:47:26.421 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] -   FOUND DRIVER com.mysql.jdbc.Driver
+2020-09-13 20:47:26.423 [ task-1 ] - [ DEBUG ] [ log4jdbc.debug : 515 ] - DriverSpy intialization done.
+2020-09-13 20:47:26.766 [ task-1 ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 564 ] - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@65bf336e
+2020-09-13 20:47:26.768 [ task-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - HikariPool-1 - Start completed.
+2020-09-13 20:47:26.869 [ HikariPool-1 housekeeper ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 421 ] - HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+2020-09-13 20:47:27.026 [ HikariPool-1 connection adder ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 728 ] - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@33057519
+2020-09-13 20:47:27.199 [ HikariPool-1 connection adder ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 728 ] - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@292c64fc
+2020-09-13 20:47:27.358 [ HikariPool-1 connection adder ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 728 ] - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@69a6a299
+2020-09-13 20:47:27.503 [ HikariPool-1 connection adder ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 728 ] - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@d968f4a
+2020-09-13 20:47:27.659 [ HikariPool-1 connection adder ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 728 ] - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@7d4f2914
+2020-09-13 20:47:27.792 [ HikariPool-1 connection adder ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 728 ] - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@226af9e
+2020-09-13 20:47:27.935 [ HikariPool-1 connection adder ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 728 ] - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@16e9fde3
+2020-09-13 20:47:27.954 [ main ] - [ INFO  ] [ com.wbw.ApplicationTests : 61 ] - Started ApplicationTests in 3.214 seconds (JVM running for 3.915)
+2020-09-13 20:47:28.089 [ HikariPool-1 connection adder ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 728 ] - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@6b843369
+2020-09-13 20:47:28.246 [ HikariPool-1 connection adder ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 728 ] - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@7dd57dbb
+2020-09-13 20:47:28.246 [ HikariPool-1 connection adder ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 421 ] - HikariPool-1 - After adding stats (total=10, active=1, idle=9, waiting=0)
+2020-09-13 20:47:28.287 [ SpringContextShutdownHook ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 350 ] - HikariPool-1 - Shutdown initiated...
+2020-09-13 20:47:28.288 [ SpringContextShutdownHook ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 421 ] - HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2020-09-13 20:47:28.289 [ HikariPool-1 connection closer ] - [ DEBUG ] [ com.zaxxer.hikari.pool.PoolBase : 134 ] - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@65bf336e: (connection evicted)
+2020-09-13 20:47:28.291 [ HikariPool-1 connection closer ] - [ DEBUG ] [ com.zaxxer.hikari.pool.PoolBase : 134 ] - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@33057519: (connection evicted)
+2020-09-13 20:47:28.292 [ HikariPool-1 connection closer ] - [ DEBUG ] [ com.zaxxer.hikari.pool.PoolBase : 134 ] - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@292c64fc: (connection evicted)
+2020-09-13 20:47:28.293 [ HikariPool-1 connection closer ] - [ DEBUG ] [ com.zaxxer.hikari.pool.PoolBase : 134 ] - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@69a6a299: (connection evicted)
+2020-09-13 20:47:28.293 [ HikariPool-1 connection closer ] - [ DEBUG ] [ com.zaxxer.hikari.pool.PoolBase : 134 ] - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@d968f4a: (connection evicted)
+2020-09-13 20:47:28.294 [ HikariPool-1 connection closer ] - [ DEBUG ] [ com.zaxxer.hikari.pool.PoolBase : 134 ] - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@7d4f2914: (connection evicted)
+2020-09-13 20:47:28.295 [ HikariPool-1 connection closer ] - [ DEBUG ] [ com.zaxxer.hikari.pool.PoolBase : 134 ] - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@226af9e: (connection evicted)
+2020-09-13 20:47:28.295 [ HikariPool-1 connection closer ] - [ DEBUG ] [ com.zaxxer.hikari.pool.PoolBase : 134 ] - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@16e9fde3: (connection evicted)
+2020-09-13 20:47:28.296 [ HikariPool-1 connection closer ] - [ DEBUG ] [ com.zaxxer.hikari.pool.PoolBase : 134 ] - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@6b843369: (connection evicted)
+2020-09-13 20:47:28.296 [ HikariPool-1 connection closer ] - [ DEBUG ] [ com.zaxxer.hikari.pool.PoolBase : 134 ] - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@7dd57dbb: (connection evicted)
+2020-09-13 20:47:28.296 [ SpringContextShutdownHook ] - [ DEBUG ] [ com.zaxxer.hikari.pool.HikariPool : 421 ] - HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2020-09-13 20:47:28.297 [ SpringContextShutdownHook ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 352 ] - HikariPool-1 - Shutdown completed.
+2020-09-13 20:47:54.443 [ main ] - [ INFO  ] [ com.wbw.ApplicationTests : 55 ] - Starting ApplicationTests on PC-20200620GZXL with PID 10308 (started by Administrator in D:\work\workdata\wbw_system)
+2020-09-13 20:47:54.444 [ main ] - [ INFO  ] [ com.wbw.ApplicationTests : 651 ] - No active profile set, falling back to default profiles: default
+2020-09-13 20:47:55.723 [ task-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - HikariPool-1 - Starting...
+2020-09-13 20:47:56.059 [ task-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - HikariPool-1 - Start completed.
+2020-09-13 20:47:57.246 [ main ] - [ INFO  ] [ com.wbw.ApplicationTests : 61 ] - Started ApplicationTests in 3.133 seconds (JVM running for 3.843)
+2020-09-13 20:47:57.451 [ SpringContextShutdownHook ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 350 ] - HikariPool-1 - Shutdown initiated...
+2020-09-13 20:47:57.505 [ SpringContextShutdownHook ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 352 ] - HikariPool-1 - Shutdown completed.
